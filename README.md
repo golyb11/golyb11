@@ -1,24 +1,28 @@
+# Привет! Я Илья 👋
 
-## Технологический стек
+**Junior Python-разработчик** — делаю бэкенд и Telegram-ботов.
 
-**Языки:** Python, JavaScript, TypeScript
+Пишу на Python: Django, DRF, асинхронные боты на aiogram, реалтайм на WebSockets. Беру инструмент под задачу, а не ради хайпа. Открыт к junior/стажёрским позициям и небольшим фриланс-заказам (боты, автоматизация).
 
-**Backend:** Django, Django REST Framework, Django Channels, Express, Socket.io
+## 🛠️ Стек
 
-**Frontend:** React, React Native, Three.js, Vanilla JS SPA
+**Основное:** Python · Django · Django REST Framework · aiogram · Celery · Django Channels (WebSockets)
 
-**Базы данных:** PostgreSQL, SQLite
+**Базы и инфра:** PostgreSQL · Redis · Docker · Git · Nginx
 
-**Инструменты:** Git, Docker, Nginx, Celery, Redis
+**Дополнительно:** JavaScript · TypeScript · React · React Native · Three.js · Express · Socket.io
 
-**Деплой:** Docker Compose, VPS, Яндекс.Игры, Expo (Android)
+## 📌 Проекты
 
-## Проекты
-
-| Проект | Стек | Описание |
+| Проект | Стек | О чём |
 |---|---|---|
-| [portfolio-showcase](https://github.com/golyb11/portfolio-showcase) | Django, DRF, Channels, Vanilla JS | Full-stack портфолио с интерактивной демонстрацией навыков |
-| [NeonSnake3D](https://github.com/golyb11/NeonSnake3D) | Three.js, JavaScript | 3D-игра Змейка с неоновой графикой для Яндекс.Игр |
-| [CyberSlotRPG](https://github.com/golyb11/CyberSlotRPG) | Express, Socket.io, JavaScript | Мультиплеерный слот-автомат с RPG-апгрейдами |
-| [PepeTelegramBot](https://github.com/golyb11/PepeTelegramBot) | Python, Aiogram, LLM | Telegram-бот с двойной личностью и ИИ-ассистентом |
-| [Swipetuber](https://github.com/golyb11/Swipetuber) | React Native, TypeScript | Android-приложение для сохранения YouTube-видео |
+| [portfolio-showcase](https://github.com/golyb11/portfolio-showcase) | Django · DRF · Channels · Celery · PostgreSQL · Redis · Docker | Full-stack приложение: REST API, реалтайм-чат, фоновые задачи, работа с безопасностью |
+| [PepeTelegramBot](https://github.com/golyb11/PepeTelegramBot) | Python · aiogram · LLM (OpenRouter) | Асинхронный Telegram-бот с несколькими режимами и ИИ-ассистентом |
+| [CyberSlotRPG](https://github.com/golyb11/CyberSlotRPG) | Node.js · Express · Socket.io | Мультиплеер в реальном времени: комнаты, синхронизация, серверная логика |
+| [NeonSnake3D](https://github.com/golyb11/NeonSnake3D) | Three.js · JavaScript | 3D-игра с неоновой графикой и bloom-постпроцессингом |
+| [Swipetuber](https://github.com/golyb11/Swipetuber) | React Native · TypeScript | Android-приложение на React Native |
+
+## 📫 Связь
+
+- Email: zhdanovichilya188@gmail.com
+- GitHub: [github.com/golyb11](https://github.com/golyb11)
